@@ -4,6 +4,9 @@
   <li>Rode em seu terminal <strong>git clone git@github.com:LailsonGabriel/desafio-azapfy.git</strong></li>
   <li>após isso rode <strong>npm install</strong> em seu terminal</li>
   <li>e por último e não menos importante <strong>npm start</strong></li>
+  
+<h1>Vídeo Demostrativo</h1>
+ [gif!](https://github.com/LailsonGabriel/desafio-azapfy/blob/main/ezgif.com-gif-maker%20(1).gif)
 
 # Getting Started with Create React App
 
