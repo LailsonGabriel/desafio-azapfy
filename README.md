@@ -6,7 +6,7 @@
   <li>e por último e não menos importante <strong>npm start</strong></li>
   
 <h1>Vídeo Demostrativo</h1>
- [gif!](https://github.com/LailsonGabriel/desafio-azapfy/blob/main/ezgif.com-gif-maker%20(1).gif)
+ (https://github.com/LailsonGabriel/desafio-azapfy/blob/main/ezgif.com-gif-maker%20(1).gif)
 
 # Getting Started with Create React App
 
