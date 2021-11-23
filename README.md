@@ -1,3 +1,14 @@
+<h1>Desafio Azapfy</h1>
+<p>Desenvolvidor por <a href="https://github.com/LailsonGabriel">Lailson Gabriel<a/>
+<h2>Para rodar a aplicação em sua máquina siga esses passos</h2>
+  <li>Rode em seu terminal <strong>git clone git@github.com:LailsonGabriel/desafio-azapfy.git</strong></li>
+  <li>após isso rode <strong>npm install</strong> em seu terminal</li>
+  <li>e por último e não menos importante <strong>npm start</strong></li>
+  
+<h1>Vídeo Demostrativo</h1>
+
+![GIF](https://github.com/LailsonGabriel/desafio-azapfy/blob/main/ezgif.com-gif-maker%20(1).gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
