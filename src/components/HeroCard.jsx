@@ -14,12 +14,12 @@ export default function HeroCard({ name, images, id, codition }) {
   function handleFigth() {
     const findHero = heroesList.find((hero) => hero.id === id);
     setHeroesFigth([...heroesFigth, findHero]);
-    setHeroSelected([...heroSelected, name])
+    setHeroSelected([...heroSelected, id])
   }
 
   return (
     <div
-    className={ heroSelected.some((hero) => hero === name) 
+    className={ heroSelected.some((hero) => hero === id)
       && codition === true ? 'selected card' : 'card' }
     >
       <img src={ images.sm } alt="" />
