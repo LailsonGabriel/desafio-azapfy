@@ -1,5 +1,5 @@
 <h1>Desafio Azapfy</h1>
-<p>Desenvolvidor por <a href="https://github.com/LailsonGabriel">Lailson Gabriel<a/>
+<p>Desenvolvido por <a href="https://github.com/LailsonGabriel">Lailson Gabriel<a/>
 <h2>Para rodar a aplicação em sua máquina siga esses passos</h2>
   <li>Rode em seu terminal <strong>git clone git@github.com:LailsonGabriel/desafio-azapfy.git</strong></li>
   <li>após isso rode <strong>npm install</strong> em seu terminal</li>
